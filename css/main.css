@@ -78,6 +78,11 @@ h9 {
   font-size: 25px;
   font-family: 'Open Sans', sans-serif;
 }
+h10 {
+  font-size: 10px;
+  font-family: 'Open Sans', sans-serif;
+  color: blue;
+}
 a {
   color: #000;
   transition: all 0.5s ease;
